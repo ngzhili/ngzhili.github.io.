@@ -1,7 +1,7 @@
 # ngzhili.github.io.
 Ng Zhili Online Portfolio
 
-This project consists of my personal portfolio and online resume.
+This project consists of my personal portfolio and online resume hosted via github.
 
 docs: documents used in webpage.
 
