@@ -517,25 +517,25 @@ img.resize
 
 
 
-/* start download */
-#download
+/* start CV */
+#CV
     {
         background-color: #f8f8f8;
         padding-top: 80px;
         padding-bottom: 80px;
     }
-#download h2
+#CV h2
     {
         padding-bottom: 20px;
     }
-#download .btn
+#CV .btn
     {
         border-radius: 0px;
         font-weight: bold;
         margin-top: 20px;
         padding: 10px 40px 10px 40px;
     }
-/* end download */
+/* end CV */
 
 /* start contact */
 #contact
