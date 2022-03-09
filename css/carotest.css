@@ -1,0 +1,46 @@
+#carouselButtons {
+    margin-left: 100px;
+    position: absolute;
+    bottom: 0px;
+}
+.carousel-caption {
+
+    position: relative;
+    left: auto;
+    right: auto;
+    bottom: 130px;
+    padding:1px;
+    width:100%;
+
+    /*left: auto;
+    right: auto;
+    bottom: 10%;
+    width:100%;
+    padding:1px;*/
+    
+    color: rgb(255, 255, 255);
+    
+    background-color: rgba(32, 155, 221, 0.2);
+}
+
+
+.carousel-inner {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.2);
+
+}
+
+
+@media only screen and (min-width: 600px) {
+    .carousel-inner {
+        
+        background-color: white;
+    }
+
+    }
+
+@media only screen and (min-width: 1000px) {
+    .carousel-inner{
+      background-color: white;
+    }
+  }
